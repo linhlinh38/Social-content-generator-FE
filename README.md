@@ -21,7 +21,39 @@
 
 - Login Page
 
-  ![plot](C:\Users\03lin\Downloads\ui-basic\ui-basic\README.md)
+  ![alt text](capture/LoginPage.png)
+
+- Send Access Code Alert
+
+  ![alt text](capture/SendAccessCode.png)
+
+- Validate Access Code Success Alert
+
+  ![alt text](capture/ValidateAccessCodeSuccess.png)
+
+- Home Page
+
+  ![alt text](capture/HomePage.png)
+
+- Start From Scratch Page
+
+  ![alt text](capture/GenerateCaptionsInScratch.png)
+
+- Get Inspired Page
+
+  ![alt text](capture/GenerateCaptionInspired.png)
+
+- Save Caption Success Alert
+
+  ![alt text](capture/SaveCaptionSuccess.png)
+
+- Profile Page
+
+  ![alt text](capture/ProfilePage.png)
+
+- Unsave Caption Success Alert
+
+  ![alt text](capture/PopupUnsaveSuccess.png)
 
 ## Author
 
